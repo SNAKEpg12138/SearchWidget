@@ -3,4 +3,5 @@
 Customize a search control, search for the specified content by customizing the textChange signal of LineEdit, and display it in QListWidget in the form of QCheckBox.
 
 # # 图标资源下载
-[]([优质的10个免费icon图标网站](https://baijiahao.baidu.com/s?id=1739262581650133390&wfr=spider&for=pc))
+Icon resource download: https://baijiahao.baidu.com/s?id=1739262581650133390&wfr=spider&for=pc
+[图标资源下载]([优质的10个免费icon图标网站](https://baijiahao.baidu.com/s?id=1739262581650133390&wfr=spider&for=pc))
